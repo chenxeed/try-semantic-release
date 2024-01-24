@@ -10,5 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "semantic-release": "^23.0.0"
-  }
+  },
+  "private": true
 }
